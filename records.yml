@@ -1,0 +1,2018 @@
+[
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 1,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602497700000,
+"end": 1602500400000,
+"id": "NTE1NTg1MDlfMTQzXzE2MDI0OTc3MDA.",
+"title": "ARD-Buffet"
+      }
+    },
+    "category": {
+"identity": 2,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Health"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 9,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602498300000,
+"end": 1602501000000,
+"id": "NTQxMjQxNTlfMThfMTYwMjQ5ODMwMA..",
+"title": "In aller Freundschaft"
+      }
+    },
+    "category": {
+"identity": 10,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Medical"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 12,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602496500000,
+"end": 1602500100000,
+"id": "NTE1MzIzMTVfMTMxXzE2MDI0OTY1MDA.",
+"title": "Shopping Queen"
+      }
+    },
+    "category": {
+"identity": 13,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Reality"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 16,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602493500000,
+"end": 1602500700000,
+"id": "NTE1MzIzMDlfMTI5XzE2MDI0OTM1MDA.",
+"title": "Frauentausch"
+      }
+    },
+    "category": {
+"identity": 17,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Dokusoap"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 22,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602497400000,
+"end": 1602500100000,
+"id": "NTMzMTQxMjlfMjU0XzE2MDI0OTc0MDA.",
+"title": "JAG - Im Auftrag der Ehre"
+      }
+    },
+    "category": {
+"identity": 23,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Law"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 33,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602781200000,
+"end": 1602783600000,
+"id": "NTE1MzIyODFfMTI2XzE2MDI3ODEyMDA.",
+"title": "Snooker:"
+      }
+    },
+    "category": {
+"identity": 26,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Snooker"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 25,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602503100000,
+"end": 1602517500000,
+"id": "NTE1MzIyODFfMTI2XzE2MDI1MDMxMDA.",
+"title": "Snooker:"
+      }
+    },
+    "category": {
+"identity": 26,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Snooker"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 39,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602864000000,
+"end": 1602867000000,
+"id": "NTE1NTg1MDlfMTQzXzE2MDI4NjQwMDA.",
+"title": "Gefragt - Gejagt"
+      }
+    },
+    "category": {
+"identity": 40,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Game show"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 41,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602878400000,
+"end": 1602883800000,
+"id": "NTQxMjQxNjRfMjFfMTYwMjg3ODQwMA..",
+"title": "Kölner Treff"
+      }
+    },
+    "category": {
+"identity": 42,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Talk"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 43,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602966600000,
+"end": 1602969300000,
+"id": "NTE1NTgyNTlfMTQwXzE2MDI5NjY2MDA.",
+"title": "ZDF-History"
+      }
+    },
+    "category": {
+"identity": 44,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "History"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 45,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603207800000,
+"end": 1603209600000,
+"id": "NTE1NTgyNjBfMTQxXzE2MDMyMDc4MDA.",
+"title": "Storage Hunters"
+      }
+    },
+    "category": {
+"identity": 46,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Collectibles"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 50,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603207800000,
+"end": 1603211100000,
+"id": "NTMyOTAxMzRfMTg5XzE2MDMyMDc4MDA.",
+"title": "Charmed - Zauberhafte Hexen"
+      }
+    },
+    "category": {
+"identity": 51,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 57,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603395900000,
+"end": 1603397700000,
+"id": "NTE1NTkxOTBfMTQ1XzE2MDMzOTU5MDA.",
+"title": "auslandsjournal - die doku"
+      }
+    },
+    "category": {
+"identity": 58,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Public affairs"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 60,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603701000000,
+"end": 1603702800000,
+"id": "NDg3NjM3NjVfMTAzXzE2MDM3MDEwMDA.",
+"title": "Our World"
+      }
+    },
+    "category": {
+"identity": 850,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Newsmagazine"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 856,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1600795200000,
+"end": 1600797600000,
+"id": "NTE1MzIzNDFfMTMyXzE2MDA3OTUyMDA.",
+"title": "Kulturzeit"
+      }
+    },
+    "category": {
+"identity": 850,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Newsmagazine"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 848,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1600795800000,
+"end": 1600797600000,
+"id": "NDg3NjM3NjVfMTAzXzE2MDA3OTU4MDA.",
+"title": "Focus on Africa"
+      }
+    },
+    "category": {
+"identity": 850,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Newsmagazine"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 38,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602864000000,
+"end": 1602867600000,
+"id": "NTMzODE0OTZfMjY1XzE2MDI4NjQwMDA.",
+"title": "SOKO Kitzbühel"
+      }
+    },
+    "category": {
+"identity": 860,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Crime"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 859,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1600798500000,
+"end": 1600803900000,
+"id": "NTE1NTgyNjJfMTQyXzE2MDA3OTg1MDA.",
+"title": "München Mord"
+      }
+    },
+    "category": {
+"identity": 860,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Crime"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 862,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1600804800000,
+"end": 1600812900000,
+"id": "NTE1NTc1NTBfMTM1XzE2MDA4MDQ4MDA.",
+"title": "Shang-High Noon"
+      }
+    },
+    "category": {
+"identity": 863,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Comedy"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 3,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602497400000,
+"end": 1602500400000,
+"id": "NTMzODE0OTZfMjY1XzE2MDI0OTc0MDA.",
+"title": "drehscheibe"
+      }
+    },
+    "category": {
+"identity": 869,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Politics"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 867,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601583300000,
+"end": 1601585400000,
+"id": "NTE1NTg1MDlfMTQzXzE2MDE1ODMzMDA.",
+"title": "Tagesthemen"
+      }
+    },
+    "category": {
+"identity": 869,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Politics"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 53,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603357200000,
+"end": 1603364400000,
+"id": "NTMyOTIwOTJfMjMwXzE2MDMzNTcyMDA.",
+"title": "Tagesschau"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 36,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602849600000,
+"end": 1602868500000,
+"id": "NTMyOTIwOTJfMjMwXzE2MDI4NDk2MDA.",
+"title": "Tagesschau"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 20,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602498600000,
+"end": 1602500400000,
+"id": "NTE1MzIyODVfMTI4XzE2MDI0OTg2MDA.",
+"title": "News Spezial"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 948,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602401400000,
+"end": 1602403200000,
+"id": "NTQxMjQxNTlfMThfMTYwMjQwMTQwMA..",
+"title": "Hamburg Journal"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 930,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602153000000,
+"end": 1602154800000,
+"id": "NDg3NjM3NjVfMTAzXzE2MDIxNTMwMDA.",
+"title": "Europe s Migrant Crisis: Five Years On"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 895,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601899200000,
+"end": 1601918400000,
+"id": "NTMyOTIwOTJfMjMwXzE2MDE4OTkyMDA.",
+"title": "Tagesschau"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 874,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601609400000,
+"end": 1601622000000,
+"id": "NTMyOTIwOTJfMjMwXzE2MDE2MDk0MDA.",
+"title": "ARD-Morgenmagazin"
+      }
+    },
+    "category": {
+"identity": 875,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "News"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 7,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602498600000,
+"end": 1602503880000,
+"id": "NTMyOTI4MzRfMjM4XzE2MDI0OTg2MDA.",
+"title": "Und wer nimmt den Hund?"
+      }
+    },
+    "category": {
+"identity": 881,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Comedy drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 880,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601639400000,
+"end": 1601642700000,
+"id": "NTMyOTAxMzRfMTg5XzE2MDE2Mzk0MDA.",
+"title": "Gilmore Girls"
+      }
+    },
+    "category": {
+"identity": 881,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Comedy drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 55,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603394100000,
+"end": 1603397400000,
+"id": "NTM0MzkwNjJfMV8xNjAzMzk0MTAw",
+"title": "Galileo 360°"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 37,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602866100000,
+"end": 1602868800000,
+"id": "NTE1NTczOTRfMTM0XzE2MDI4NjYxMDA.",
+"title": "Kanadas Nationalparks"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 31,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602562200000,
+"end": 1602564000000,
+"id": "NTE1NTczOTRfMTM0XzE2MDI1NjIyMDA.",
+"title": "Zahlen schreiben Geschichte"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 27,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602506700000,
+"end": 1602510300000,
+"id": "NTE1MzIzNDFfMTMyXzE2MDI1MDY3MDA.",
+"title": "Land im Gezeitenstrom"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 4,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602497700000,
+"end": 1602499800000,
+"id": "NTE1NTczOTRfMTM0XzE2MDI0OTc3MDA.",
+"title": "Re:"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 896,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601922900000,
+"end": 1601925600000,
+"id": "NTE1NTg1MDlfMTQzXzE2MDE5MjI5MDA.",
+"title": "Unbekanntes Madagaskar"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 885,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601902800000,
+"end": 1601905500000,
+"id": "NTE1NTgyNTlfMTQwXzE2MDE5MDI4MDA.",
+"title": "ZDF-History"
+      }
+    },
+    "category": {
+"identity": 887,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Documentary"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 35,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602839700000,
+"end": 1602842400000,
+"id": "NTMzODE0OTZfMjY1XzE2MDI4Mzk3MDA.",
+"title": "SOKO Stuttgart"
+      }
+    },
+    "category": {
+"identity": 892,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Crime drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 945,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602372000000,
+"end": 1602375300000,
+"id": "NTE1NTgyNjJfMTQyXzE2MDIzNzIwMDA.",
+"title": "Killing Mike"
+      }
+    },
+    "category": {
+"identity": 892,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Crime drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 942,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602366300000,
+"end": 1602373500000,
+"id": "NTE1MzIzNDFfMTMyXzE2MDIzNjYzMDA.",
+"title": "A Most Violent Year"
+      }
+    },
+    "category": {
+"identity": 892,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Crime drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 891,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1601902500000,
+"end": 1601905800000,
+"id": "NTE1NTc1NTBfMTM1XzE2MDE5MDI1MDA.",
+"title": "Navy CIS: L.A"
+      }
+    },
+    "category": {
+"identity": 892,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Crime drama"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 899,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo3"
+      }
+    },
+    "program": {
+"identity": 904,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602056100000,
+"end": 1602057600000,
+"id": "MTQ0OTU2MjQ5N184MF8xNjAyMDU2MTAw",
+"title": "Die Thundermans"
+      }
+    },
+    "category": {
+"identity": 900,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Children"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 899,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo3"
+      }
+    },
+    "program": {
+"identity": 898,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602056100000,
+"end": 1602056700000,
+"id": "NTE1NTc1NTFfMTM2XzE2MDIwNTYxMDA.",
+"title": "Wuffel   der Wunderhund"
+      }
+    },
+    "category": {
+"identity": 900,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Children"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 19,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602498600000,
+"end": 1602500100000,
+"id": "NTA0OTE1NTBfMTA2XzE2MDI0OTg2MDA.",
+"title": "Tom und jerry"
+      }
+    },
+    "category": {
+"identity": 907,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Animated"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 11,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602498600000,
+"end": 1602500400000,
+"id": "NTE1NTc1NTFfMTM2XzE2MDI0OTg2MDA.",
+"title": "Die Sendung mit der Maus"
+      }
+    },
+    "category": {
+"identity": 907,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Animated"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 899,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo3"
+      }
+    },
+    "program": {
+"identity": 906,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602057900000,
+"end": 1602059400000,
+"id": "NTA0OTE1NTBfMTA2XzE2MDIwNTc5MDA.",
+"title": "Paw Patrol - Helfer auf vier Pfoten"
+      }
+    },
+    "category": {
+"identity": 907,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Animated"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 28,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602507900000,
+"end": 1602511200000,
+"id": "NTMzODE0OTZfMjY1XzE2MDI1MDc5MDA.",
+"title": "Bares für Rares"
+      }
+    },
+    "category": {
+"identity": 910,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Entertainment"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 14,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602496800000,
+"end": 1602504000000,
+"id": "NTA0ODg4MjJfMTA1XzE2MDI0OTY4MDA.",
+"title": "Punkt 12 - Das RTL-Mittagsjournal"
+      }
+    },
+    "category": {
+"identity": 910,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Entertainment"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 909,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602054300000,
+"end": 1602059400000,
+"id": "NTMzODE0OTZfMjY1XzE2MDIwNTQzMDA.",
+"title": "Volle Kanne - Service täglich"
+      }
+    },
+    "category": {
+"identity": 910,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Entertainment"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 52,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1603209000000,
+"end": 1603216800000,
+"id": "NTE1MzIyODFfMTI2XzE2MDMyMDkwMDA.",
+"title": "Tennis:"
+      }
+    },
+    "category": {
+"identity": 914,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Tennis"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 925,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602147300000,
+"end": 1602154800000,
+"id": "NTE1MzIyODFfMTI2XzE2MDIxNDczMDA.",
+"title": "Tennis: French Open 2020 in Paris / Roland Garros"
+      }
+    },
+    "category": {
+"identity": 914,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Tennis"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 913,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602062700000,
+"end": 1602064500000,
+"id": "NTE1MzIyODFfMTI2XzE2MDIwNjI3MDA.",
+"title": "Matchball Becker"
+      }
+    },
+    "category": {
+"identity": 914,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Tennis"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 916,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602081000000,
+"end": 1602082800000,
+"id": "NTE1NTgyMjhfMTM5XzE2MDIwODEwMDA.",
+"title": "The Big Bang Theory"
+      }
+    },
+    "category": {
+"identity": 917,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Sitcom"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 923,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602147900000,
+"end": 1602150300000,
+"id": "NTE1MzIzNDFfMTMyXzE2MDIxNDc5MDA.",
+"title": "Zugvögel"
+      }
+    },
+    "category": {
+"identity": 921,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Miniseries"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 920,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602080700000,
+"end": 1602084300000,
+"id": "NTMyOTAwNzhfMTgxXzE2MDIwODA3MDA.",
+"title": "Natürlich verliebt - Wie Tiere flirten"
+      }
+    },
+    "category": {
+"identity": 921,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Miniseries"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 29,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602519300000,
+"end": 1602521100000,
+"id": "NTQxMjQxNjRfMjFfMTYwMjUxOTMwMA..",
+"title": "Servicezeit"
+      }
+    },
+    "category": {
+"identity": 928,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Consumer"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 927,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602152100000,
+"end": 1602153900000,
+"id": "NTE1MzIzNDFfMTMyXzE2MDIxNTIxMDA.",
+"title": "Servicezeit"
+      }
+    },
+    "category": {
+"identity": 928,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Consumer"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 931,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602152100000,
+"end": 1602155700000,
+"id": "NTMyODkyMTJfMTYyXzE2MDIxNTIxMDA.",
+"title": "Fang des Lebens - Der gefährlichste Job Alaskas"
+      }
+    },
+    "category": {
+"identity": 932,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Adventure"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 868,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_test1"
+      }
+    },
+    "program": {
+"identity": 5,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602496500000,
+"end": 1602499500000,
+"id": "NTQxMjQxNjRfMjFfMTYwMjQ5NjUwMA..",
+"title": "Eisbär   Affe & Co."
+      }
+    },
+    "category": {
+"identity": 935,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Animals"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 934,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602238500000,
+"end": 1602240600000,
+"id": "NTE1NTczOTRfMTM0XzE2MDIyMzg1MDA.",
+"title": "Re:"
+      }
+    },
+    "category": {
+"identity": 935,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Animals"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 886,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo2"
+      }
+    },
+    "program": {
+"identity": 0,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602411300000,
+"end": 1602420300000,
+"id": "NTE1MzIzMTVfMTMxXzE2MDI0MTEzMDA.",
+"title": "The Amazing Spider-Man 2: Rise of Electro"
+      }
+    },
+    "category": {
+"identity": 938,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Action"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 937,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602363600000,
+"end": 1602373800000,
+"id": "NTE1MzIzMTVfMTMxXzE2MDIzNjM2MDA.",
+"title": "Terminator 2 - Tag der Abrechnung"
+      }
+    },
+    "category": {
+"identity": 938,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Action"
+      }
+    }
+  },
+  {
+    "user": {
+"identity": 849,
+"labels": [
+        "User"
+      ],
+"properties": {
+"name": "aitv_demo1"
+      }
+    },
+    "program": {
+"identity": 946,
+"labels": [
+        "Program"
+      ],
+"properties": {
+"start": 1602373800000,
+"end": 1602376500000,
+"id": "NTE1MzIzMTVfMTMxXzE2MDIzNzM4MDA.",
+"title": "Law & Order: Special Victims Unit"
+      }
+    },
+    "category": {
+"identity": 947,
+"labels": [
+        "Category"
+      ],
+"properties": {
+"name": "Thriller"
+      }
+    }
+  }
+]
